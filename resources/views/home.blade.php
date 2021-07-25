@@ -2,7 +2,7 @@
 
 @section('container')
 <div>
-    <h1>Halaman Home</h1>
+    <h1>Halaman Home edit jeffrey</h1>
     @foreach ($articles as $article)
         {{-- blog post --}}
         <div class="card" style="width: 18rem;">
